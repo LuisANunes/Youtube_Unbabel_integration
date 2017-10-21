@@ -20,6 +20,6 @@ unbabel_api.py -> Unbabel API for translation
 # Additional Info:
 1) We are using .srt files
 2) Since its a small demonstration, the integration is searching for english subtitles manually introduced (the automatically translated are error prone) and translating it to portuguese. 
-3) test video: https://www.youtube.com/watch?v=-gGTL-D0uQs
-
+3) Test video: https://www.youtube.com/watch?v=-gGTL-D0uQs
+4) When the subtitles are uploaded, they are added as drafts and need to be accepted by the account's owner on the creator studio on Youtube.
 
